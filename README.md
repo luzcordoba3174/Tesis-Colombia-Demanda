@@ -15,6 +15,7 @@ La plataforma de datos de comercio global más completa del mundo La base de dat
 
 ### Análisis de la Demanda Internacional
 - modelo.ipynb - Desarrollo de procesamiento y técnica de segmentación.
+- Desarrollar un algoritmo que clasifique el potencial exportador para Colombia en cuanto al mercado y productos no minero-energéticos.
 
 ### Crear Proyecto Tableu
 - tableau.ipynb - ETL (Procesamiento y despliegue de los datos, generación de archivo con extensión a Tableu)
