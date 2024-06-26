@@ -14,8 +14,10 @@ Este proyecto se implementa en The Python Package Index, por lo tanto, la estruc
 La plataforma de datos de comercio global más completa del mundo La base de datos Comtrade de las Naciones Unidas agrega estadísticas comerciales globales anuales y mensuales detalladas por producto y socio comercial para uso de gobiernos, instituciones académicas, institutos de investigación y empresas. Los datos compilados por la División de Estadística de las Naciones Unidas cubren aproximadamente 200 países y representan más del 99% del comercio mundial de mercancías. La información se puede extraer en una variedad de formatos, incluidas las herramientas de desarrollo de API para la integración en aplicaciones y flujos de trabajo empresariales. Los suscriptores reciben acceso a funciones adicionales para mejorar la eficiencia y la especificidad.
 
 ### Análisis de la Demanda Internacional
+
+Desarrollar un algoritmo que clasifique el potencial exportador para Colombia en cuanto al mercado y productos no minero-energéticos.
+
 - modelo.ipynb - Desarrollo de procesamiento y técnica de segmentación.
-- Desarrollar un algoritmo que clasifique el potencial exportador para Colombia en cuanto al mercado y productos no minero-energéticos.
 
 ### Crear Proyecto Tableu
 - tableau.ipynb - ETL (Procesamiento y despliegue de los datos, generación de archivo con extensión a Tableu)
